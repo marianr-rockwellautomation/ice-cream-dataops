@@ -29,7 +29,7 @@ variables:
 
       use_cases:
         oee:
-          data_pipeline_oee_source_id: 3ddddbb2-8632-4cda-922e-0f412013be27
+          data_pipeline_oee_source_id: 69db8f89-8db0-46d9-8f51-48b5e3a5b40b
           uc_oee_ds_external_id: ds_uc_oee
           oee_space_name: oee_ts_space
           data_pipeline_oee_client_id: ${DATA_PIPELINE_OEE_CLIENT_ID}
